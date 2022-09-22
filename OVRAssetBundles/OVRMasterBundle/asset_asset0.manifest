@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2368426845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c13296bc5d46f043921fbe7952239c92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 729726e79d79303dc80495b074808094
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Terrain/New Terrain 1.asset
+Dependencies:
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

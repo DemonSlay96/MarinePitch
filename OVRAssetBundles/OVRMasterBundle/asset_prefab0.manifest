@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 2945142126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62f1bc89bb5808ef3084bac8394f1b9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5f4127ed6f8c9c93e5617d348a5d4fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc6470b2a4905f640aebf9c123836451, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd425c2d06f39bf4899d07c05d0f10eb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Fish/Fish (5).prefab
+- Assets/Prefabs/Fish/Fish (6).prefab
+- Assets/Prefabs/Fish/Fish (9).prefab
+- Assets/Prefabs/Fish/Fish (4).prefab
+- Assets/Prefabs/Fish/Fish (7).prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
+- Assets/Prefabs/Fish/Fish (8).prefab
+- Assets/Prefabs/Fish/Fish.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+- Assets/Prefabs/Fish/Fish (2).prefab
+- Assets/Prefabs/Fish/Fish (1).prefab
+- Assets/Prefabs/Fish/Fish (3).prefab
+Dependencies:
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_mat0

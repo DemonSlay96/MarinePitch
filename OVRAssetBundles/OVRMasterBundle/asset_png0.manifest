@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 486016565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db25c546b0e0eecde78233af942235f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Myasset/Bubbles/waterbubble3.png
+- Assets/Textures/7288_barramundi fish_col.png
+- Assets/Stylize Water Texture/Textures/Vol_36_5_Base_Color.png
+Dependencies: []

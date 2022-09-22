@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 540516094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 089b5fbd9bf1fc007b0fffe6004ab448
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e870fe55c515b71bfbc233cfbec83308
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Stylize Water Texture/Materials/NewLayer.terrainlayer
+Dependencies:
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_png0

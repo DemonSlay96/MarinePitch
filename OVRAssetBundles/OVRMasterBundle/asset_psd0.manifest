@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3571196098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1084b7bf68c60188b4fbb66da12b3545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Myasset/Ground/Textures/cracked_earth.psd
+Dependencies: []

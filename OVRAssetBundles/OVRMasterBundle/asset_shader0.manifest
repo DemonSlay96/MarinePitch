@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1699181688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c319e698abd456a78ca7f8bfb9f723c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrassBillboard.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainDetailLit.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrass.shader
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 595617552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53efd2d368576899ba24759e68e30aa3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/Fish Material 3.mat
+- Assets/Materials/Fish Material 9.mat
+- Assets/Materials/Fish Material 7.mat
+- Assets/Materials/Fish Material 5.mat
+- Assets/Materials/Fish Material.mat
+- Assets/Myasset/Bubbles/Bubble.mat
+- Assets/Materials/Fish Material 2.mat
+- Assets/Materials/Skybox_Mat.mat
+- Assets/Materials/Fish Material 4.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Materials/Fish Material 1.mat
+- Assets/Materials/Fish Material 8.mat
+- Assets/Materials/Fish Material 6.mat
+- Assets/Stylize Water Texture/Materials/Stylize Water Diffuse.mat
+Dependencies:
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- C:/Users/nirya/Desktop/Project2/MarinePitch/OVRAssetBundles/OVRMasterBundle/asset_tga0
